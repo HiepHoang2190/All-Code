@@ -1,0 +1,13 @@
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\bin\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.exe
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\bin\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.deps.json
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\bin\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.runtimeconfig.json
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\bin\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.runtimeconfig.dev.json
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\bin\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.dll
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\bin\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.pdb
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\obj\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.csprojAssemblyReference.cache
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\obj\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.csproj.CoreCompileInputs.cache
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\obj\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.AssemblyInfoInputs.cache
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\obj\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.AssemblyInfo.cs
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\obj\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.dll
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\obj\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.pdb
+D:\C#\Lesson-C\Chèn-Phần-Tử-Vào-Mảng\obj\Debug\netcoreapp3.1\Chèn-Phần-Tử-Vào-Mảng.genruntimeconfig.cache

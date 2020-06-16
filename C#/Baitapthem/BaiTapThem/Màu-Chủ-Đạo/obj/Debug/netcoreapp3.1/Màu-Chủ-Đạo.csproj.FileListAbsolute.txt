@@ -1,0 +1,12 @@
+D:\C#\Baitapthem\BaiTapThem\Màu-Chủ-Đạo\bin\Debug\netcoreapp3.1\Màu-Chủ-Đạo.exe
+D:\C#\Baitapthem\BaiTapThem\Màu-Chủ-Đạo\bin\Debug\netcoreapp3.1\Màu-Chủ-Đạo.deps.json
+D:\C#\Baitapthem\BaiTapThem\Màu-Chủ-Đạo\bin\Debug\netcoreapp3.1\Màu-Chủ-Đạo.runtimeconfig.json
+D:\C#\Baitapthem\BaiTapThem\Màu-Chủ-Đạo\bin\Debug\netcoreapp3.1\Màu-Chủ-Đạo.runtimeconfig.dev.json
+D:\C#\Baitapthem\BaiTapThem\Màu-Chủ-Đạo\bin\Debug\netcoreapp3.1\Màu-Chủ-Đạo.dll
+D:\C#\Baitapthem\BaiTapThem\Màu-Chủ-Đạo\bin\Debug\netcoreapp3.1\Màu-Chủ-Đạo.pdb
+D:\C#\Baitapthem\BaiTapThem\Màu-Chủ-Đạo\obj\Debug\netcoreapp3.1\Màu-Chủ-Đạo.csproj.CoreCompileInputs.cache
+D:\C#\Baitapthem\BaiTapThem\Màu-Chủ-Đạo\obj\Debug\netcoreapp3.1\Màu-Chủ-Đạo.AssemblyInfoInputs.cache
+D:\C#\Baitapthem\BaiTapThem\Màu-Chủ-Đạo\obj\Debug\netcoreapp3.1\Màu-Chủ-Đạo.AssemblyInfo.cs
+D:\C#\Baitapthem\BaiTapThem\Màu-Chủ-Đạo\obj\Debug\netcoreapp3.1\Màu-Chủ-Đạo.dll
+D:\C#\Baitapthem\BaiTapThem\Màu-Chủ-Đạo\obj\Debug\netcoreapp3.1\Màu-Chủ-Đạo.pdb
+D:\C#\Baitapthem\BaiTapThem\Màu-Chủ-Đạo\obj\Debug\netcoreapp3.1\Màu-Chủ-Đạo.genruntimeconfig.cache

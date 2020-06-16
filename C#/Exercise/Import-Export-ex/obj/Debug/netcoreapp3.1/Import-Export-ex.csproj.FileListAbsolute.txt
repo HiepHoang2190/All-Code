@@ -1,0 +1,13 @@
+D:\C#\Exercise\Import-Export-ex\bin\Debug\netcoreapp3.1\Import-Export-ex.exe
+D:\C#\Exercise\Import-Export-ex\bin\Debug\netcoreapp3.1\Import-Export-ex.deps.json
+D:\C#\Exercise\Import-Export-ex\bin\Debug\netcoreapp3.1\Import-Export-ex.runtimeconfig.json
+D:\C#\Exercise\Import-Export-ex\bin\Debug\netcoreapp3.1\Import-Export-ex.runtimeconfig.dev.json
+D:\C#\Exercise\Import-Export-ex\bin\Debug\netcoreapp3.1\Import-Export-ex.dll
+D:\C#\Exercise\Import-Export-ex\bin\Debug\netcoreapp3.1\Import-Export-ex.pdb
+D:\C#\Exercise\Import-Export-ex\obj\Debug\netcoreapp3.1\Import-Export-ex.csprojAssemblyReference.cache
+D:\C#\Exercise\Import-Export-ex\obj\Debug\netcoreapp3.1\Import-Export-ex.csproj.CoreCompileInputs.cache
+D:\C#\Exercise\Import-Export-ex\obj\Debug\netcoreapp3.1\Import-Export-ex.AssemblyInfoInputs.cache
+D:\C#\Exercise\Import-Export-ex\obj\Debug\netcoreapp3.1\Import-Export-ex.AssemblyInfo.cs
+D:\C#\Exercise\Import-Export-ex\obj\Debug\netcoreapp3.1\Import-Export-ex.dll
+D:\C#\Exercise\Import-Export-ex\obj\Debug\netcoreapp3.1\Import-Export-ex.pdb
+D:\C#\Exercise\Import-Export-ex\obj\Debug\netcoreapp3.1\Import-Export-ex.genruntimeconfig.cache

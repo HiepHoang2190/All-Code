@@ -1,0 +1,13 @@
+D:\C#\Lesson-C\Loop-For\bin\Debug\netcoreapp3.1\Loop-For.exe
+D:\C#\Lesson-C\Loop-For\bin\Debug\netcoreapp3.1\Loop-For.deps.json
+D:\C#\Lesson-C\Loop-For\bin\Debug\netcoreapp3.1\Loop-For.runtimeconfig.json
+D:\C#\Lesson-C\Loop-For\bin\Debug\netcoreapp3.1\Loop-For.runtimeconfig.dev.json
+D:\C#\Lesson-C\Loop-For\bin\Debug\netcoreapp3.1\Loop-For.dll
+D:\C#\Lesson-C\Loop-For\bin\Debug\netcoreapp3.1\Loop-For.pdb
+D:\C#\Lesson-C\Loop-For\obj\Debug\netcoreapp3.1\Loop-For.csproj.CoreCompileInputs.cache
+D:\C#\Lesson-C\Loop-For\obj\Debug\netcoreapp3.1\Loop-For.AssemblyInfoInputs.cache
+D:\C#\Lesson-C\Loop-For\obj\Debug\netcoreapp3.1\Loop-For.AssemblyInfo.cs
+D:\C#\Lesson-C\Loop-For\obj\Debug\netcoreapp3.1\Loop-For.dll
+D:\C#\Lesson-C\Loop-For\obj\Debug\netcoreapp3.1\Loop-For.pdb
+D:\C#\Lesson-C\Loop-For\obj\Debug\netcoreapp3.1\Loop-For.genruntimeconfig.cache
+D:\C#\Lesson-C\Loop-For\obj\Debug\netcoreapp3.1\Loop-For.csprojAssemblyReference.cache

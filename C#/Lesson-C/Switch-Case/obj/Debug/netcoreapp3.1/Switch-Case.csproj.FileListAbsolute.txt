@@ -1,0 +1,13 @@
+D:\C#\Lesson-C\Switch-Case\bin\Debug\netcoreapp3.1\Switch-Case.exe
+D:\C#\Lesson-C\Switch-Case\bin\Debug\netcoreapp3.1\Switch-Case.deps.json
+D:\C#\Lesson-C\Switch-Case\bin\Debug\netcoreapp3.1\Switch-Case.runtimeconfig.json
+D:\C#\Lesson-C\Switch-Case\bin\Debug\netcoreapp3.1\Switch-Case.runtimeconfig.dev.json
+D:\C#\Lesson-C\Switch-Case\bin\Debug\netcoreapp3.1\Switch-Case.dll
+D:\C#\Lesson-C\Switch-Case\bin\Debug\netcoreapp3.1\Switch-Case.pdb
+D:\C#\Lesson-C\Switch-Case\obj\Debug\netcoreapp3.1\Switch-Case.csprojAssemblyReference.cache
+D:\C#\Lesson-C\Switch-Case\obj\Debug\netcoreapp3.1\Switch-Case.csproj.CoreCompileInputs.cache
+D:\C#\Lesson-C\Switch-Case\obj\Debug\netcoreapp3.1\Switch-Case.AssemblyInfoInputs.cache
+D:\C#\Lesson-C\Switch-Case\obj\Debug\netcoreapp3.1\Switch-Case.AssemblyInfo.cs
+D:\C#\Lesson-C\Switch-Case\obj\Debug\netcoreapp3.1\Switch-Case.dll
+D:\C#\Lesson-C\Switch-Case\obj\Debug\netcoreapp3.1\Switch-Case.pdb
+D:\C#\Lesson-C\Switch-Case\obj\Debug\netcoreapp3.1\Switch-Case.genruntimeconfig.cache

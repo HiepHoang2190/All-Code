@@ -1,0 +1,13 @@
+D:\C#\Test\ForumManagement\bin\Debug\netcoreapp3.1\ForumManagement.exe
+D:\C#\Test\ForumManagement\bin\Debug\netcoreapp3.1\ForumManagement.deps.json
+D:\C#\Test\ForumManagement\bin\Debug\netcoreapp3.1\ForumManagement.runtimeconfig.json
+D:\C#\Test\ForumManagement\bin\Debug\netcoreapp3.1\ForumManagement.runtimeconfig.dev.json
+D:\C#\Test\ForumManagement\bin\Debug\netcoreapp3.1\ForumManagement.dll
+D:\C#\Test\ForumManagement\bin\Debug\netcoreapp3.1\ForumManagement.pdb
+D:\C#\Test\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.csprojAssemblyReference.cache
+D:\C#\Test\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.csproj.CoreCompileInputs.cache
+D:\C#\Test\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.AssemblyInfoInputs.cache
+D:\C#\Test\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.AssemblyInfo.cs
+D:\C#\Test\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.dll
+D:\C#\Test\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.pdb
+D:\C#\Test\ForumManagement\obj\Debug\netcoreapp3.1\ForumManagement.genruntimeconfig.cache

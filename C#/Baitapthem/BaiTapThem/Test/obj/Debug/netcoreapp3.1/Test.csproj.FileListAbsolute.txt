@@ -1,0 +1,13 @@
+D:\C#\Baitapthem\BaiTapThem\Test\bin\Debug\netcoreapp3.1\Test.exe
+D:\C#\Baitapthem\BaiTapThem\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+D:\C#\Baitapthem\BaiTapThem\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+D:\C#\Baitapthem\BaiTapThem\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+D:\C#\Baitapthem\BaiTapThem\Test\bin\Debug\netcoreapp3.1\Test.dll
+D:\C#\Baitapthem\BaiTapThem\Test\bin\Debug\netcoreapp3.1\Test.pdb
+D:\C#\Baitapthem\BaiTapThem\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+D:\C#\Baitapthem\BaiTapThem\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+D:\C#\Baitapthem\BaiTapThem\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+D:\C#\Baitapthem\BaiTapThem\Test\obj\Debug\netcoreapp3.1\Test.dll
+D:\C#\Baitapthem\BaiTapThem\Test\obj\Debug\netcoreapp3.1\Test.pdb
+D:\C#\Baitapthem\BaiTapThem\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+D:\C#\Baitapthem\BaiTapThem\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache

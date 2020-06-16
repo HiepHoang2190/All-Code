@@ -1,0 +1,13 @@
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\bin\Debug\netcoreapp3.1\Sinh-Viên.exe
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\bin\Debug\netcoreapp3.1\Sinh-Viên.deps.json
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\bin\Debug\netcoreapp3.1\Sinh-Viên.runtimeconfig.json
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\bin\Debug\netcoreapp3.1\Sinh-Viên.runtimeconfig.dev.json
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\bin\Debug\netcoreapp3.1\Sinh-Viên.dll
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\bin\Debug\netcoreapp3.1\Sinh-Viên.pdb
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\obj\Debug\netcoreapp3.1\Sinh-Viên.csprojAssemblyReference.cache
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\obj\Debug\netcoreapp3.1\Sinh-Viên.csproj.CoreCompileInputs.cache
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\obj\Debug\netcoreapp3.1\Sinh-Viên.AssemblyInfoInputs.cache
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\obj\Debug\netcoreapp3.1\Sinh-Viên.AssemblyInfo.cs
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\obj\Debug\netcoreapp3.1\Sinh-Viên.dll
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\obj\Debug\netcoreapp3.1\Sinh-Viên.pdb
+D:\C#\Baitapthem\BaiTapThem\Sinh-Viên\obj\Debug\netcoreapp3.1\Sinh-Viên.genruntimeconfig.cache

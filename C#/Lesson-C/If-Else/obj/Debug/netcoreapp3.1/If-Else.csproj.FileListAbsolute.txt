@@ -1,0 +1,13 @@
+D:\C#\Lesson-C\If-Else\bin\Debug\netcoreapp3.1\If-Else.exe
+D:\C#\Lesson-C\If-Else\bin\Debug\netcoreapp3.1\If-Else.deps.json
+D:\C#\Lesson-C\If-Else\bin\Debug\netcoreapp3.1\If-Else.runtimeconfig.json
+D:\C#\Lesson-C\If-Else\bin\Debug\netcoreapp3.1\If-Else.runtimeconfig.dev.json
+D:\C#\Lesson-C\If-Else\bin\Debug\netcoreapp3.1\If-Else.dll
+D:\C#\Lesson-C\If-Else\bin\Debug\netcoreapp3.1\If-Else.pdb
+D:\C#\Lesson-C\If-Else\obj\Debug\netcoreapp3.1\If-Else.csprojAssemblyReference.cache
+D:\C#\Lesson-C\If-Else\obj\Debug\netcoreapp3.1\If-Else.csproj.CoreCompileInputs.cache
+D:\C#\Lesson-C\If-Else\obj\Debug\netcoreapp3.1\If-Else.AssemblyInfoInputs.cache
+D:\C#\Lesson-C\If-Else\obj\Debug\netcoreapp3.1\If-Else.AssemblyInfo.cs
+D:\C#\Lesson-C\If-Else\obj\Debug\netcoreapp3.1\If-Else.dll
+D:\C#\Lesson-C\If-Else\obj\Debug\netcoreapp3.1\If-Else.pdb
+D:\C#\Lesson-C\If-Else\obj\Debug\netcoreapp3.1\If-Else.genruntimeconfig.cache

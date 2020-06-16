@@ -1,0 +1,13 @@
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\bin\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.exe
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\bin\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.deps.json
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\bin\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.runtimeconfig.json
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\bin\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.runtimeconfig.dev.json
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\bin\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.dll
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\bin\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.pdb
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\obj\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.csprojAssemblyReference.cache
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\obj\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.csproj.CoreCompileInputs.cache
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\obj\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.AssemblyInfoInputs.cache
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\obj\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.AssemblyInfo.cs
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\obj\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.dll
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\obj\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.pdb
+D:\C#\Lesson-C\Ép-Kiểu-trong-C\obj\Debug\netcoreapp3.1\Ép-Kiểu-trong-C.genruntimeconfig.cache

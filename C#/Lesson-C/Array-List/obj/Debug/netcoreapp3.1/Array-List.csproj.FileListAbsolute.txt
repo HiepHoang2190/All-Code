@@ -1,0 +1,13 @@
+D:\C#\Lesson-C\Array-List\bin\Debug\netcoreapp3.1\Array-List.exe
+D:\C#\Lesson-C\Array-List\bin\Debug\netcoreapp3.1\Array-List.deps.json
+D:\C#\Lesson-C\Array-List\bin\Debug\netcoreapp3.1\Array-List.runtimeconfig.json
+D:\C#\Lesson-C\Array-List\bin\Debug\netcoreapp3.1\Array-List.runtimeconfig.dev.json
+D:\C#\Lesson-C\Array-List\bin\Debug\netcoreapp3.1\Array-List.dll
+D:\C#\Lesson-C\Array-List\bin\Debug\netcoreapp3.1\Array-List.pdb
+D:\C#\Lesson-C\Array-List\obj\Debug\netcoreapp3.1\Array-List.csproj.CoreCompileInputs.cache
+D:\C#\Lesson-C\Array-List\obj\Debug\netcoreapp3.1\Array-List.AssemblyInfoInputs.cache
+D:\C#\Lesson-C\Array-List\obj\Debug\netcoreapp3.1\Array-List.AssemblyInfo.cs
+D:\C#\Lesson-C\Array-List\obj\Debug\netcoreapp3.1\Array-List.dll
+D:\C#\Lesson-C\Array-List\obj\Debug\netcoreapp3.1\Array-List.pdb
+D:\C#\Lesson-C\Array-List\obj\Debug\netcoreapp3.1\Array-List.genruntimeconfig.cache
+D:\C#\Lesson-C\Array-List\obj\Debug\netcoreapp3.1\Array-List.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\C#\Exercise\Input-Day\bin\Debug\netcoreapp3.1\Input-Day.exe
+D:\C#\Exercise\Input-Day\bin\Debug\netcoreapp3.1\Input-Day.deps.json
+D:\C#\Exercise\Input-Day\bin\Debug\netcoreapp3.1\Input-Day.runtimeconfig.json
+D:\C#\Exercise\Input-Day\bin\Debug\netcoreapp3.1\Input-Day.runtimeconfig.dev.json
+D:\C#\Exercise\Input-Day\bin\Debug\netcoreapp3.1\Input-Day.dll
+D:\C#\Exercise\Input-Day\bin\Debug\netcoreapp3.1\Input-Day.pdb
+D:\C#\Exercise\Input-Day\obj\Debug\netcoreapp3.1\Input-Day.csprojAssemblyReference.cache
+D:\C#\Exercise\Input-Day\obj\Debug\netcoreapp3.1\Input-Day.csproj.CoreCompileInputs.cache
+D:\C#\Exercise\Input-Day\obj\Debug\netcoreapp3.1\Input-Day.AssemblyInfoInputs.cache
+D:\C#\Exercise\Input-Day\obj\Debug\netcoreapp3.1\Input-Day.AssemblyInfo.cs
+D:\C#\Exercise\Input-Day\obj\Debug\netcoreapp3.1\Input-Day.dll
+D:\C#\Exercise\Input-Day\obj\Debug\netcoreapp3.1\Input-Day.pdb
+D:\C#\Exercise\Input-Day\obj\Debug\netcoreapp3.1\Input-Day.genruntimeconfig.cache

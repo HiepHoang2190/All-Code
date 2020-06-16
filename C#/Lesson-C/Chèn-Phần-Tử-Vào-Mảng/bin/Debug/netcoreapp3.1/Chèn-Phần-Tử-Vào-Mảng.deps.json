@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Chèn-Phần-Tử-Vào-Mảng/1.0.0": {
+        "runtime": {
+          "Chèn-Phần-Tử-Vào-Mảng.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chèn-Phần-Tử-Vào-Mảng/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

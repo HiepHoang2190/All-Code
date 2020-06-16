@@ -1,0 +1,13 @@
+D:\C#\Lesson-C\Swapa-b\bin\Debug\netcoreapp3.1\Swapa-b.exe
+D:\C#\Lesson-C\Swapa-b\bin\Debug\netcoreapp3.1\Swapa-b.deps.json
+D:\C#\Lesson-C\Swapa-b\bin\Debug\netcoreapp3.1\Swapa-b.runtimeconfig.json
+D:\C#\Lesson-C\Swapa-b\bin\Debug\netcoreapp3.1\Swapa-b.runtimeconfig.dev.json
+D:\C#\Lesson-C\Swapa-b\bin\Debug\netcoreapp3.1\Swapa-b.dll
+D:\C#\Lesson-C\Swapa-b\bin\Debug\netcoreapp3.1\Swapa-b.pdb
+D:\C#\Lesson-C\Swapa-b\obj\Debug\netcoreapp3.1\Swapa-b.csprojAssemblyReference.cache
+D:\C#\Lesson-C\Swapa-b\obj\Debug\netcoreapp3.1\Swapa-b.csproj.CoreCompileInputs.cache
+D:\C#\Lesson-C\Swapa-b\obj\Debug\netcoreapp3.1\Swapa-b.AssemblyInfoInputs.cache
+D:\C#\Lesson-C\Swapa-b\obj\Debug\netcoreapp3.1\Swapa-b.AssemblyInfo.cs
+D:\C#\Lesson-C\Swapa-b\obj\Debug\netcoreapp3.1\Swapa-b.dll
+D:\C#\Lesson-C\Swapa-b\obj\Debug\netcoreapp3.1\Swapa-b.pdb
+D:\C#\Lesson-C\Swapa-b\obj\Debug\netcoreapp3.1\Swapa-b.genruntimeconfig.cache

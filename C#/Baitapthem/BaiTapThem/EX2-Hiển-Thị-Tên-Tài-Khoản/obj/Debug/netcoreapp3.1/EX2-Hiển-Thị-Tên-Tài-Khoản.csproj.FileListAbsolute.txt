@@ -1,0 +1,13 @@
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\bin\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.exe
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\bin\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.deps.json
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\bin\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.runtimeconfig.json
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\bin\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.runtimeconfig.dev.json
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\bin\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.dll
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\bin\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.pdb
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\obj\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.csprojAssemblyReference.cache
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\obj\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.csproj.CoreCompileInputs.cache
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\obj\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.AssemblyInfoInputs.cache
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\obj\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.AssemblyInfo.cs
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\obj\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.dll
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\obj\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.pdb
+D:\C#\Baitapthem\BaiTapThem\EX2-Hiển-Thị-Tên-Tài-Khoản\obj\Debug\netcoreapp3.1\EX2-Hiển-Thị-Tên-Tài-Khoản.genruntimeconfig.cache
