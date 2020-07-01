@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Employee>
+
+@{
+    ViewBag.Title = "Employee List";
+    //var employees = ViewBag.employees as IEnumerable<Employee>;
+}
+
+    <div class="row">
+        @foreach (var emp in Model)
+        {
+        <div class="col-6 col-md-3 my-3">
+            <div class="card">
+                <div class="card-header">
+                <h3>Name:@emp.Name</h3>
+                </div>
+                <img src="@emp.AvatarPatch"  class="card-img-top" />
+                <div class="card-footer">
+                    <h3>Email:@emp.Email</h3>
+                    <h3>Department:@emp.Department</h3>
+                    <a asp-controller="Home" asp-action="Details" asp-route-id="@emp.Id" class="btn btn-info my-1">View</a>
+                    <a href="#" class="btn btn-primary my-1">Edit</a>
+                    <a href="#" class="btn btn-danger my-1">Delete</a>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+
+

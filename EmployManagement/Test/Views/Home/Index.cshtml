@@ -1,0 +1,15 @@
+﻿@{ 
+    //var employees = ViewData["employees"] as IEnumerable<Test.Models.Employee>;
+    var employees = ViewBag.employees as IEnumerable<Test.Models.Employee>;
+}
+
+@foreach (var emp in employees)
+{
+    <div>
+        <h1>@emp.Name</h1>
+        <img src="@emp.AvatarPatch" alt="Alternate Text" />
+        <h3>@emp.Email</h3>
+        <h3>@emp.Department</h3>
+    </div>
+
+}

@@ -1,0 +1,62 @@
+﻿@model HomeDetailViewModel
+
+@{
+    //Layout = "~/Views/Shared/_Layout_details.cshtml";
+    ViewBag.Title = ViewBag.TitleName;
+    //var employee = ViewBag.employess as Employee;
+    var avartarPath=$"/images/{Model.Employee.AvatarPatch ?? "img_avatar1.png"}";
+}
+
+
+@*<div class="text-center my-4">
+        <h1>@employee.Name</h1>
+        <img src="@Url.Content("~/"+employee.AvatarPatch)" class="img-fluid" alt="Alternate Text" />
+        <h3>Email:@employee.Email</h3>
+        <h3>Department:@employee.Department</h3>
+    </div>*@
+
+
+@*<div class="col-12 col-sm-4 d-inline-block ">
+        <div class="card text-center my-4 ">
+            <div class="card-header">
+                <h1>@Model.Employee.Name</h1>
+            </div>
+            <img src="@Url.Content("~/"+Model.Employee.AvatarPatch)" class="img-fluid card-img-top" alt="Alternate Text" />
+            <div class="card-footer">
+                <h3>Id:@Model.Employee.Id</h3>
+                <h3>Email:@Model.Employee.Email</h3>
+                <h3>Department:@Model.Employee.Department</h3>
+            <a href="@Url.Action("Index","Home")" class="btn btn-warning btn1 my-1">Back</a>
+                <a asp-controller="Home" asp-action="Index" asp class="btn btn-warning btn1 my-1">Back</a>
+                <a href="#" class="btn btn-primary btn1 my-1 ">Edit</a>
+                <a href="#" class="btn btn-danger btn1 my-1">Delete</a>
+            </div>
+        </div>
+    </div>*@
+
+
+    <div class="row justify-content-center">
+        <div class="col-12 col-sm-4  ">
+            <div class="card  my-4 ">
+                <div class="card-header">
+                    <h1>@Model.Employee.Name</h1>
+                </div>
+                <img src="@avartarPath" asp-append-version="true" class="img-fluid card-img-top"  />
+                <div class="card-body text-center">
+                    <h3>Id:@Model.Employee.Id</h3>
+                    <h3>Email:@Model.Employee.Email</h3>
+                    <h3>Department:@Model.Employee.Department</h3>
+                    <h3>City:@Model.Employee.City</h3>
+                    <h3>Address:@Model.Employee.Address</h3>
+                </div>
+                <div class="card-footer text-center">
+                    @*<a href="@Url.Action("Index","Home")" class="btn btn-warning btn1 my-1">Back</a>*@
+                    <a asp-controller="Home" asp-action="Index" asp class="btn btn-warning btn1 my-1">Back</a>
+                    <a asp-controller="Home" asp-action="Edit" asp-route-id="@Model.Employee.Id" class="btn btn-primary btn1 my-1 ">Edit</a>
+                    <a asp-controller="Home" asp-action="Delete" asp-route-id="@Model.Employee.Id" class=" btn btn-danger btn1 my-1 ">Delete</a>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+

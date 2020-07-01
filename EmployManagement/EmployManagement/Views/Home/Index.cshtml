@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Employee>
+    @{
+        //var employees = ViewData["employees"] as IEnumerable<EmployManagement.Models.Employee>;
+        //var employees = ViewBag.employess as IEnumerable<Employee>;
+        //Layout = "~/Views/Shared/_HomeLayout.cshtml";
+        ViewBag.Title = "Employee List";
+
+    }
+    <div class="row">
+        @foreach (var emp in Model)
+        {
+            var avartarPath = $"/images/{emp.AvatarPatch ?? "img_avatar1.png"}";
+            <div class="col-6 col-md-3 my-3">
+                <div class="card">
+                    <div class="card-header">
+                        <h1 class="text-center">@emp.Name</h1>
+                    </div>
+
+                    <img src="@avartarPath" asp-append-version="true" class="card-img-top" />
+                    <div class="card-footer">
+                        @*<a href="Home/Details/@emp.Id" >View</a>*@
+                        @* @Html.ActionLink("View","Details","Home", new {id=emp.Id })*@
+                        @*<a href="@Url.Action("Details","Home",new { id = emp.Id })" class="btn btn-info btn1 my-1">View</a>*@                                                
+                                <a asp-controller="Home" asp-action="Details" asp-route-id="@emp.Id" class="btn btn-info btn1 my-1 ">View</a>
+                                <a asp-controller="Home" asp-action="Edit" asp-route-id="@emp.Id" class="btn btn-primary btn1 my-1  ">Edit</a>
+                                <a asp-controller="Home" asp-action="Details" asp-route-id="@emp.Id" class=" btn btn-danger btn1 my-1 ">Delete</a>                                               
+                    </div>
+                </div>
+            </div>
+
+        }
+    </div>

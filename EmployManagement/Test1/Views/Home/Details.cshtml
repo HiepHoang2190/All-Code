@@ -1,0 +1,23 @@
+﻿@model Employee
+@{
+    ViewBag.Title = ViewBag.TitleName;
+
+}
+   
+        <div class="col-12 col-sm-4  my-3 ">
+            <div class="card">
+                <div class="card-header">
+                    <h3>Name:@Model.Name</h3>
+                </div>
+                <img src="@Url.Content("~/"+Model.AvatarPatch)" class="card-img-top" />
+                <div class="card-footer">
+                    <h3>Email:@Model.Email</h3>
+                    <h3>Department:@Model.Department</h3>
+                    <a asp-controller="Home" asp-action="Details" asp-route-id="@Model.Id" class="btn btn-warning my-1">Back</a>
+                    <a href="#" class="btn btn-primary my-1">Edit</a>
+                    <a href="#" class="btn btn-danger my-1">Delete</a>
+                </div>
+            </div>
+        </div>
+   
+   
